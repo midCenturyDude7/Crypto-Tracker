@@ -1,5 +1,7 @@
 # Environment
 venv
+.flaskenv
 
 #VS Code 
 .vscode/
+
